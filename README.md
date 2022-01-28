@@ -1,5 +1,5 @@
 # wechat-simulator
-微信模拟器（真的，别搞混了）
+微信模拟器
 
 ## 使用（别乱用，需要服务器）
 需要服务器，推荐raspberry pi 4b
